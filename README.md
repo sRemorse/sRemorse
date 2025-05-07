@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hobbyist Programmer<br>Systems Admin</p>
+<p align="center">Hobbyist Programmer</p>
 
 ###
 
