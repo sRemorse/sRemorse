@@ -1,5 +1,3 @@
-<h1 align="center">Ryan 🦥</h1>
-
 ###
 
 <p align="center">Hobbyist Programmer</p>
